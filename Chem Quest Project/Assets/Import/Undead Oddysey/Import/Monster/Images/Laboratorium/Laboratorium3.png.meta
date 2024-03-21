@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 02ddb003b6fc37e4bb5f3200497f7fc0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laboratorium3_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2625
+        width: 366
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b92d92bcc5d5c458706366c2c4cd27
+      internalID: 1229376021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2610
+        width: 322
+        height: 355
+      alignment: 9
+      pivot: {x: 0.6156377, y: 0.586379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad084b5c8be7744a002ae2ea088214
+      internalID: 551832474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_55
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 777
+        width: 1220
+        height: 1542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0e57b8645374458cdd4cad33ee76f
+      internalID: -203863616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_56
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 752
+        width: 1220
+        height: 1543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc855c8c341c2243ab3369f2441c11e
+      internalID: -1214535724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_57
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 741
+        width: 1220
+        height: 1543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdace6d6896ac0408c6cc693dfce078
+      internalID: 891590702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_58
+      rect:
+        serializedVersion: 2
+        x: 5326
+        y: 750
+        width: 1217
+        height: 1545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8251cc1cc52d24448fe851c1fcd9b8a
+      internalID: 1350920271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2553
+        width: 382
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5143343, y: 0.6163451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c4338bcbc4784093c7824b1eb02dc
+      internalID: 1291089924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_2
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 2567
+        width: 440
+        height: 411
+      alignment: 9
+      pivot: {x: 0.41537365, y: 0.60392076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bd0525d77e6aa42b2baf3e18cae2cd
+      internalID: -1418319260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_3
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 2590
+        width: 388
+        height: 388
+      alignment: 9
+      pivot: {x: 0.4068547, y: 0.5479837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f33e9430fc4047af34f10aa73697f
+      internalID: 1125059895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_4
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 2641
+        width: 310
+        height: 314
+      alignment: 9
+      pivot: {x: 0.3233611, y: 0.48256105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337475bd477449f40ada47270ac74563
+      internalID: 2011523264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_5
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2604
+        width: 341
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49036467, y: 0.51755077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172551d94c8ccb74ca49de4ea2c6f6dc
+      internalID: -1715537372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_6
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 2610
+        width: 294
+        height: 386
+      alignment: 9
+      pivot: {x: 0.544701, y: 0.4233955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3322856fb16fac24688b9418f034d711
+      internalID: -116927960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_7
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 2622
+        width: 261
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5041962, y: 0.39361328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f35d08f14f4ec4384e28a6fcd7a0aa
+      internalID: 153154930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_8
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 2600
+        width: 302
+        height: 357
+      alignment: 9
+      pivot: {x: 0.39846176, y: 0.47239092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3166c780461b9c44a15db51c4613904
+      internalID: 245070650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_9
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 2591
+        width: 297
+        height: 293
+      alignment: 9
+      pivot: {x: 0.4004383, y: 0.53364056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5877cf5b23fbf4ea8b90464ae03060
+      internalID: 127742719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_10
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 2604
+        width: 391
+        height: 260
+      alignment: 9
+      pivot: {x: 0.60643405, y: 0.49578857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b1b8e98b23e964bb83976ad7b0de99
+      internalID: -1889979454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorium3_11
+      rect:
+        serializedVersion: 2
+        x: 6545
+        y: 2545
+        width: 362
+        height: 332
+      alignment: 9
+      pivot: {x: 0.6028601, y: 0.6451416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bdb8714859ac439ee36733aabf172
+      internalID: -1376363912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Laboratorium3_28: 1349779008
+      Laboratorium3_56: -1214535724
+      Laboratorium3_39: 350399970
+      Laboratorium3_24: -1713834791
+      Laboratorium3_42: 1837055290
+      Laboratorium3_51: 1561341156
+      Laboratorium3_29: 1213686812
+      Laboratorium3_9: 127742719
+      Laboratorium3_32: -1749499358
+      Laboratorium3_13: -559032909
+      Laboratorium3_44: -899761212
+      Laboratorium3_43: -331545144
+      Laboratorium3_21: -2079593036
+      Laboratorium3_41: 908665019
+      Laboratorium3_48: -272662917
+      Laboratorium3_23: 1047088166
+      Laboratorium3_40: 998372723
+      Laboratorium3_20: -982759525
+      Laboratorium3_25: 658686213
+      Laboratorium3_11: -1376363912
+      Laboratorium3_19: -1402614301
+      Laboratorium3_26: -262785375
+      Laboratorium3_59: 1794678139
+      Laboratorium3_8: 245070650
+      Laboratorium3_49: 2144897271
+      Laboratorium3_30: 1537104360
+      Laboratorium3_33: -401860103
+      Laboratorium3_36: 1690005812
+      Laboratorium3_5: -1715537372
+      Laboratorium3_58: 1350920271
+      Laboratorium3_6: -116927960
+      Laboratorium3_3: 1125059895
+      Laboratorium3_17: -1365262973
+      Laboratorium3_10: -1889979454
+      Laboratorium3_46: -1993242027
+      Laboratorium3_16: -2069277043
+      Laboratorium3_38: 1328163987
+      Laboratorium3_37: -452331254
+      Laboratorium3_54: 574860041
+      Laboratorium3_2: -1418319260
+      Laboratorium3_4: 2011523264
+      Laboratorium3_22: 1759175693
+      Laboratorium3_52: -1340181850
+      Laboratorium3_57: 891590702
+      Laboratorium3_47: -1918125174
+      Laboratorium3_12: 163182703
+      Laboratorium3_14: 551832474
+      Laboratorium3_18: -1475154421
+      Laboratorium3_31: 266178041
+      Laboratorium3_34: 1074486398
+      Laboratorium3_7: 153154930
+      Laboratorium3_45: -466174395
+      Laboratorium3_15: -1960930865
+      Laboratorium3_35: -1241474968
+      Laboratorium3_27: 287151526
+      Laboratorium3_0: 1229376021
+      Laboratorium3_55: -203863616
+      Laboratorium3_50: 280279358
+      Laboratorium3_53: 1236770640
+      Laboratorium3_1: 1291089924
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

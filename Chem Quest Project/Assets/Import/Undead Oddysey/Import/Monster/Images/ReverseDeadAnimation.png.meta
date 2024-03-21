@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 1095b19c243cace42a0e30b3771793db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1870
+        width: 295
+        height: 295
+      alignment: 9
+      pivot: {x: 0.49156806, y: 0.5165213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c973b2df9f9b4abcb213e51ff4260
+      internalID: -1107934554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1858
+        width: 306
+        height: 306
+      alignment: 9
+      pivot: {x: 0.4642326, y: 0.5341422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970761503aef8c40914931fd82c1c34
+      internalID: -1118625522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1858
+        width: 282
+        height: 295
+      alignment: 9
+      pivot: {x: 0.502341, y: 0.5156651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d842d44ec17597848a8849eb6db4ab80
+      internalID: -536765421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1869
+        width: 295
+        height: 284
+      alignment: 9
+      pivot: {x: 0.479469, y: 0.5021328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1167d7a8f6214fa3cd6e254de0f59
+      internalID: -945651496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1858
+        width: 307
+        height: 306
+      alignment: 9
+      pivot: {x: 0.46251526, y: 0.57323503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd3ee90f2ec0a49958a732cdd2524c
+      internalID: -2121630122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1844
+        width: 293
+        height: 309
+      alignment: 9
+      pivot: {x: 0.47932887, y: 0.5823244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cae719ee4a1a84fb32f8d84f98e007
+      internalID: 1782764996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 1858
+        width: 284
+        height: 295
+      alignment: 9
+      pivot: {x: 0.45102403, y: 0.5583773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19590b5f1ffb69949a5ed1b1e49d4076
+      internalID: -1770167457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1905
+        width: 199
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4265416, y: 0.50582194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1e87319673df4fb3159860db7e1d8
+      internalID: -539907440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1894
+        width: 247
+        height: 234
+      alignment: 9
+      pivot: {x: 0.4798589, y: 0.4936221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88510e7bd73d24ab77a744ed3474ba
+      internalID: 1460777587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1917
+        width: 152
+        height: 138
+      alignment: 9
+      pivot: {x: 0.47150522, y: 0.42153355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fec50abbeee9d47815f9c9388a52ea
+      internalID: 322260478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReverseDeadAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad897476821a3d44b94ae8e55279d0b1
+      internalID: 1144998384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ReverseDeadAnimation_25: -1335400306
+      ReverseDeadAnimation_0: -241537796
+      ReverseDeadAnimation_8: 1514622429
+      ReverseDeadAnimation_6: 924802446
+      ReverseDeadAnimation_67: 1144998384
+      ReverseDeadAnimation_16: 998799773
+      ReverseDeadAnimation_9: -2073017900
+      ReverseDeadAnimation_4: 1298001438
+      ReverseDeadAnimation_37: 896643697
+      ReverseDeadAnimation_60: 1460777587
+      ReverseDeadAnimation_20: -619089514
+      ReverseDeadAnimation_23: 318675114
+      ReverseDeadAnimation_35: 1917055485
+      ReverseDeadAnimation_29: 1619068422
+      ReverseDeadAnimation_64: -2059008397
+      ReverseDeadAnimation_38: -103832793
+      ReverseDeadAnimation_18: -847502034
+      ReverseDeadAnimation_42: -1330630882
+      ReverseDeadAnimation_39: 1504294822
+      ReverseDeadAnimation_44: -758044469
+      ReverseDeadAnimation_17: 1407997738
+      ReverseDeadAnimation_30: 1128123324
+      ReverseDeadAnimation_34: 1093593775
+      ReverseDeadAnimation_52: -1118625522
+      ReverseDeadAnimation_10: -1866376631
+      ReverseDeadAnimation_7: -641117939
+      ReverseDeadAnimation_63: -1051237413
+      ReverseDeadAnimation_57: -1770167457
+      ReverseDeadAnimation_65: 917507365
+      ReverseDeadAnimation_31: 44550523
+      ReverseDeadAnimation_40: 1195644006
+      ReverseDeadAnimation_21: 867288964
+      ReverseDeadAnimation_61: -1654141165
+      ReverseDeadAnimation_33: -125659835
+      ReverseDeadAnimation_51: -1107934554
+      ReverseDeadAnimation_19: -380721129
+      ReverseDeadAnimation_27: -170999013
+      ReverseDeadAnimation_54: -945651496
+      ReverseDeadAnimation_56: 1782764996
+      ReverseDeadAnimation_15: 388820102
+      ReverseDeadAnimation_5: 2118031385
+      ReverseDeadAnimation_11: -1201838146
+      ReverseDeadAnimation_32: 683320280
+      ReverseDeadAnimation_53: -536765421
+      ReverseDeadAnimation_28: -664590041
+      ReverseDeadAnimation_49: -821715191
+      ReverseDeadAnimation_58: 1160984411
+      ReverseDeadAnimation_46: 246292752
+      ReverseDeadAnimation_12: -353134673
+      ReverseDeadAnimation_1: 1690073891
+      ReverseDeadAnimation_2: -1704670473
+      ReverseDeadAnimation_62: 322260478
+      ReverseDeadAnimation_3: -1095895781
+      ReverseDeadAnimation_59: -539907440
+      ReverseDeadAnimation_24: -913614587
+      ReverseDeadAnimation_26: 418762280
+      ReverseDeadAnimation_14: -2075051751
+      ReverseDeadAnimation_48: -675420644
+      ReverseDeadAnimation_50: 2071958204
+      ReverseDeadAnimation_13: -244096022
+      ReverseDeadAnimation_22: -807966407
+      ReverseDeadAnimation_55: -2121630122
+      ReverseDeadAnimation_45: -1687509686
+      ReverseDeadAnimation_47: 524658583
+      ReverseDeadAnimation_41: 908629662
+      ReverseDeadAnimation_36: -1393638313
+      ReverseDeadAnimation_43: 1946899300
+      ReverseDeadAnimation_66: 1285227027
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

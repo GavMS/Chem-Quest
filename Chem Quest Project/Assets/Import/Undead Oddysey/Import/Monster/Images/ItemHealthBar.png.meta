@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 7d5bc3aa27f4f0e4084ed92343fc7994
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ItemHealthBar_15
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3119
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3094148c295953408cb13dd01aa3816
+      internalID: 1236488458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_17
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2914
+        width: 194
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6194846287487646972c966b8f75bde
+      internalID: -2010816488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_18
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 1547
+        width: 315
+        height: 1597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed62991732dc74fba1062f85b1cd7f
+      internalID: -1300525428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_27
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3009
+        width: 1927
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8db144780d47e45a007697fb99adc1
+      internalID: -1309046099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_28
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2998
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c29d621a81f6b40a020f3db0a9feea
+      internalID: -981372431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_29
+      rect:
+        serializedVersion: 2
+        x: 4702
+        y: 2998
+        width: 195
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292a174be9ba854890c1bd0a9962b27
+      internalID: -1144304516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_33
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2939
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df41a8b58a0d0747a100e051e0115a6
+      internalID: -1992744825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_34
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2818
+        width: 1927
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41798dad770e6f45b1dc340982482b6
+      internalID: 30516913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_35
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2877
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ffef38b07b9f4eab248f8b94fc3a3
+      internalID: -880049885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_36
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2616
+        width: 233
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35f942fb4099646bc98f5a63e93840
+      internalID: 682021395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_37
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2818
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b01ea54794fb43879e000a05e9655
+      internalID: -924166123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_38
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2759
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd13441d0c0f94280712c628953044
+      internalID: -162086589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_39
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2627
+        width: 1927
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a5b28f209e32479e5dadafb8b5c1a
+      internalID: 740867628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_40
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2697
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4969b1b8c0f577f4c9b47ad7dddbddbd
+      internalID: -2145265351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_41
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2638
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6deb7b094d4200458290db5042ea5bc
+      internalID: -191210449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_42
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2579
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256e22c530130f4a93cb7899062453d
+      internalID: -1212885114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_43
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2315
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace1294a9cb9d848805dc517cf47ddc
+      internalID: 329272609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_44
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 2447
+        width: 1924
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f641228a333b25a4f89aef07ea33e8ac
+      internalID: -1062894851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_45
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2517
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5968c3dc75a74cafcee3007e93a5b
+      internalID: 1822846308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_46
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2458
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5162c6637d79db649912e5d0e665a7f2
+      internalID: -240769595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_47
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2399
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472120066aec50d479dc8f62d48a79dd
+      internalID: -525048412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_48
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2337
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ddb97117dfb24288390592cc6a466
+      internalID: 1141362700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_49
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2278
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d8ad321b765e84ca96ebf6c8bf5a30
+      internalID: 271890641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_50
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2219
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89a395e7a3b5b4ab9e0d7ee746b356
+      internalID: -1261094924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_51
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2157
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28244813fe754046aa4e374ebee9965
+      internalID: 288213308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_52
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2098
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081407060f2abdd45899d29e669cabb1
+      internalID: -297230249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_53
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2039
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d55cad91ab0524ebc8905dc2aceebb
+      internalID: -1788785738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_54
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 1977
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9601107d74f42429e82422557f4ae2
+      internalID: 213495578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_55
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 1918
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88974be94e8602944a7f15f9b768b602
+      internalID: 1687717539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_56
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 1859
+        width: 197
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e75157e0069b47b287d7d1c40eefe
+      internalID: -1043026359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_57
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be494b4306fc22a418de5b70e32f1a03
+      internalID: 1690850788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_0
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 2447
+        width: 644
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da608e2ee14d6b94b9cb5f4e52275930
+      internalID: -1746756211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemHealthBar_1
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2821
+        width: 643
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35748d1092a2e7c49820fb0936d00cd4
+      internalID: -601378817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ItemHealthBar_4: -591446133
+      ItemHealthBar_42: -1212885114
+      ItemHealthBar_41: -191210449
+      ItemHealthBar_36: 682021395
+      ItemHealthBar_50: -1261094924
+      ItemHealthBar_15: 1236488458
+      ItemHealthBar_11: -1261811610
+      ItemHealthBar_38: -162086589
+      ItemHealthBar_32: 388872871
+      ItemHealthBar_44: -1062894851
+      ItemHealthBar_21: 147111150
+      ItemHealthBar_31: -2141960064
+      ItemHealthBar_47: -525048412
+      ItemHealthBar_34: 30516913
+      ItemHealthBar_26: 1154997821
+      ItemHealthBar_1: -601378817
+      ItemHealthBar_28: -981372431
+      ItemHealthBar_48: 1141362700
+      ItemHealthBar_51: 288213308
+      ItemHealthBar_5: 102552997
+      ItemHealthBar_22: -1011981158
+      ItemHealthBar_8: -370836076
+      ItemHealthBar_7: 1376859373
+      ItemHealthBar_6: 1134583159
+      ItemHealthBar_43: 329272609
+      ItemHealthBar_19: 1705433217
+      ItemHealthBar_46: -240769595
+      ItemHealthBar_56: -1043026359
+      ItemHealthBar_33: -1992744825
+      ItemHealthBar_57: 1690850788
+      ItemHealthBar_3: 254383912
+      ItemHealthBar_23: -572837358
+      ItemHealthBar_39: 740867628
+      ItemHealthBar_16: -621258270
+      ItemHealthBar_30: -1585376833
+      ItemHealthBar_35: -880049885
+      ItemHealthBar_2: -1375808858
+      ItemHealthBar_17: -2010816488
+      ItemHealthBar_12: 488503961
+      ItemHealthBar_9: -26619673
+      ItemHealthBar_37: -924166123
+      ItemHealthBar_14: 2105721755
+      ItemHealthBar_18: -1300525428
+      ItemHealthBar_29: -1144304516
+      ItemHealthBar_55: 1687717539
+      ItemHealthBar_20: -269251650
+      ItemHealthBar_10: -99066197
+      ItemHealthBar_45: 1822846308
+      ItemHealthBar_40: -2145265351
+      ItemHealthBar_13: 527939694
+      ItemHealthBar_53: -1788785738
+      ItemHealthBar_54: 213495578
+      ItemHealthBar_27: -1309046099
+      ItemHealthBar_0: -1746756211
+      ItemHealthBar_25: 1889999066
+      ItemHealthBar_24: 1839094102
+      ItemHealthBar_49: 271890641
+      ItemHealthBar_52: -297230249
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
